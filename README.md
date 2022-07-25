@@ -1,2 +1,2 @@
 # Bachelorarbeit_ringel
-In diesem GitHub repository können die Jupyter Notebooks eingesehen werden, die für meine Bachelorarbeit verwendet wurden.
+In diesem GitHub repository können die Jupyter Notebooks eingesehen werden, die für meine Bachelorarbeit verwendet wurden. Die Datensätze sind zu groß um diese hier mit abzuspeichern. Sie sind unter folgendem Link für eine Woche in der passenden Ordnerstruktur erhältlich: https://we.tl/t-TdVSaoReCx . Der entpackte Ordner muss im Speicherort des Source Codes abgespeichert sein, damit die Jupyter Notebooks ordnungsgemäß funktionieren.
